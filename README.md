@@ -1,4 +1,4 @@
-# End-to-End Student Performance Prediction
+# Student Performance Prediction
 
 This project is a **Machine Learning web application using Streamlit** that predicts student final marks based on academic and lifestyle features. It also includes a complete **data science pipeline from data cleaning to model deployment**.
 
@@ -52,9 +52,5 @@ Metrics used:
 
 
 ## 5. Model Deployment
-- Model saved using `pickle`
 - Interactive web app built using Streamlit
 
-```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
